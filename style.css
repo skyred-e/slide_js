@@ -1,0 +1,15 @@
+#slide ul{
+    width: 360px;
+    height: 240px;
+}
+#slide li{
+    list-style: none;
+}
+#img_list{
+    padding: 0px;
+    margin: 0px;
+    float: left;
+}
+#tag_list li{
+    padding-top: 10px;
+}
